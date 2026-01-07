@@ -59,4 +59,4 @@ Follow these steps to get the project running on your local machine:
 Contributions are welcome! If you want to add more algorithms (like Heap Sort or Radix Sort), feel free to fork the repo and submit a Pull Request.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Mayank
